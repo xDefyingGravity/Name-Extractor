@@ -1,0 +1,7 @@
+[project]
+name = "Names Extractor"
+version = "0.0.0"
+authors = [
+    { name="Defying Gravity"}
+]
+description="Python Names Extractor is a program that uses NLTK and spaCy"
